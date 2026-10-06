@@ -44,7 +44,6 @@ the tree changes. Re-run the command after pulling, or symlink instead.
 | `docs-restructure` | Restructuring across pages: building a duplication map of the page family, choosing one owner per topic, cutting duplicated sections in favor of a pointer, and the anchors and redirects that breaks. |
 | `docs-team-voice` | Drafting or revising prose in the house voice: sentence length, cross-link density, stating defaults, and the revision pass. |
 | `docs-review` | Reviewing changed prose against Vale and the style guide, reporting the rule each finding breaks. Runs on a PR, a branch, or the working tree. |
-| `repo-doc-review` | Reviewing repository documentation for drift, stale current-state claims, cross-document contradictions, missing updates, and historical framing errors. |
 | `repo-evidence-review` | Reviewing technical and operational claims against the strongest available evidence, flagging overclaims, unsupported conclusions, and unverified scope. |
 | `docs-tooling-notion` | Recording new or changed tooling on the internal Notion pages: which page owns the topic, what stays in the repo, how to edit safely. |
 | `docs-code-samples` | Moving inline MDX code blocks into external, testable sample files: snippet markers, harness blocks, file placement, and the shared-module-scope trap in TypeScript. |
